@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="1" key="TypeHierarchyViewPart.orientation"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<section name="CallHierarchySearchScope">
+	</section>
+	<section name="RubyDLTKSearchPage">
+		<item value="1" key="HISTORY_SIZE"/>
+		<item value="false" key="CASE_SENSITIVE"/>
+		<section name="HISTORY0">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="" key="modelElement"/>
+			<item value="0" key="scope"/>
+			<item value="KRW" key="pattern"/>
+			<item value="1" key="limitTo"/>
+			<item value="true" key="includeInterpreterEnvironment"/>
+			<item value="0" key="searchFor"/>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

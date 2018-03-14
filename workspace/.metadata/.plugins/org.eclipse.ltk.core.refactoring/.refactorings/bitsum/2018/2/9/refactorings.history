@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AutoBit_AI_Signal.rb&apos; to &apos;AutoBit_AI_Signal.rb&apos;&#x0D;&#x0A;- Original project: &apos;bitsum&apos;&#x0D;&#x0A;- Destination element: &apos;AutoBit_AI_Signal.rb&apos;&#x0D;&#x0A;- Original element: &apos;AutoBit_AI_Signal.rb&apos;" description="Copy file" element1="src/AutoBit_AI_Signal.rb" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1519707604938" target="/bitsum/src/AutoBit_AI_Signal.rb" units="0" version="1.0"/>
+</session>

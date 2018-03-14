@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;bitsum.rb&apos; to &apos;bitsum.rb&apos;&#x0D;&#x0A;- Original project: &apos;bitsum&apos;&#x0D;&#x0A;- Destination element: &apos;bitsum.rb&apos;&#x0D;&#x0A;- Original element: &apos;bitsum.rb&apos;" description="Copy file" element1="src/bitsum.rb" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1519270075642" target="/bitsum/src/bitsum.rb" units="0" version="1.0"/>
+</session>

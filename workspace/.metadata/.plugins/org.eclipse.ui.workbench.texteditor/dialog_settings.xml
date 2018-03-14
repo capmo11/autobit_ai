@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="729" key="DIALOG_X_ORIGIN"/>
+		<item value="403" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="krChartDataGettingInit" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="krChartDataGettingInit"/>
+			<item value="text"/>
+			<item value="input-3lfOzLDc-"/>
+			<item value="KRW"/>
+			<item value="krw"/>
+			<item value="loginDo"/>
+			<item value="getChartTimeStamp"/>
+			<item value="1hour"/>
+			<item value="buyOrSell_Signal_CalCulate"/>
+			<item value="interValMinute"/>
+			<item value="scoreResultText"/>
+			<item value="intervalMinute"/>
+			<item value="step1"/>
+			<item value="krChartDataGetting"/>
+			<item value="krChartDataChkReg"/>
+		</list>
+		<list key="replacehistory">
+			<item value="dataReg"/>
+			<item value="&apos;+@telegramChatId.to_s+&apos;"/>
+			<item value="&apos;+telegramChatId.to_s+&apos;"/>
+			<item value=""/>
+			<item value="2Index"/>
+			<item value="4Index"/>
+			<item value="3Index"/>
+			<item value="1Index"/>
+			<item value="timeMinute == &quot;59&quot;"/>
+			<item value="timeSecond == &quot;58&quot;"/>
+			<item value="58"/>
+			<item value="Up"/>
+			<item value="sell"/>
+			<item value="nMvAvgSrtVal"/>
+			<item value="nowTranValue`"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="1480" key="DIALOG_X_ORIGIN"/>
+		<item value="230" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

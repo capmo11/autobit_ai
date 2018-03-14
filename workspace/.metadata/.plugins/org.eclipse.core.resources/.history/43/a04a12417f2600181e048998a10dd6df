@@ -1,0 +1,21 @@
+require 'open3'
+
+
+
+class RubyCMD
+  
+ 
+  #cmd_line = "java -cp C:/eclipse-workspace/PracticeJava/src jan.HellowWorld"
+  #cmd_line = "java -cp C:/eclipse-workspace/ApiClient/src/ javaApi.Main"
+  cmd_line = "java -cp C:/eclipse/workspace/ApiClient/bin;C:/eclipse-workspace/ApiClient/lib/jackson-all-1.9.11.jar;C:/eclipse-workspace/ApiClient/lib/guava-18.0.jar;C:/eclipse-workspace/ApiClient/lib/commons-codec-1.10.jar javaApi.Main"
+  
+ 
+ 
+  stdout, stdeerr, status = Open3.capture3("java -cp C:/eclipse/workspace/ApiClient/bin;C:/eclipse/workspace/ApiClient/lib/jackson-all-1.9.11.jar;C:/eclipse/workspace/ApiClient/lib/guava-18.0.jar;C:/eclipse/workspace/ApiClient/lib/commons-codec-1.10.jar javaApi.Main buy BTC")
+  
+  #stdout, stdeerr, status = Open3.capture3("java -cp C:/eclipse-workspace/ApiClient/bin;C:/eclipse-workspace/ApiClient/lib/jackson-all-1.9.11.jar;C:/eclipse-workspace/ApiClient/lib/guava-18.0.jar;C:/eclipse-workspace/ApiClient/lib/commons-codec-1.10.jar javaApi.Main")
+  puts stdout
+  puts stdeerr
+  puts status
+  
+end
